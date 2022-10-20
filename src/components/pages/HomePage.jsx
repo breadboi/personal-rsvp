@@ -79,13 +79,15 @@ export default class HomePage extends React.Component {
                                 <li>Costume Party, so bring a costume 👻</li>
                                 <li>Themed appitizers and deep dish pizza.</li>
                                 <li>Costume Contest</li>
-                                <li>Mini Pumpkin Carving</li>
+                                <li>Mini Pumpkin Painting</li>
                                 <li>Halloween themed games</li>
                             </ul>
                         </div>
 
-                        <div style={styles.secondaryHeader}><u>Questions ❓</u></div>
-                        <div style={styles.afterUnderlineContent}>Email me at brett@brettcarney.com</div>
+                        <div style={styles.secondaryHeader}><u>FAQ ❓</u></div>
+                        <div style={styles.afterUnderlineContent}>Age Requirement? Yes 21+</div>
+                        <div style={styles.afterUnderlineContent}>Should I bring anything? Nope, but food/drinks are welcome</div>
+                        <div style={styles.afterUnderlineContent}>Question not listed? Email me at brett@brettcarney.com</div>
 
 
                     </CardContent>
