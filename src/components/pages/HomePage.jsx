@@ -80,6 +80,9 @@ export default class HomePage extends React.Component {
                             </ul>
                         </div>
 
+                        <div style={styles.secondaryHeader}><u>Questions ❓</u></div>
+                        <div style={styles.afterUnderlineContent}>Email me at brett@brettcarney.com</div>
+
 
                     </CardContent>
 
