@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build ; rm -rf ../build",
+    "build": "react-scripts build",
     "test": "react-scripts test"
   },
   "eslintConfig": {
