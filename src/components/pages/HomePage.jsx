@@ -66,6 +66,7 @@ export default class HomePage extends React.Component {
                             <span>Brent & Cristy</span><br />
                             <span>Dalia +1</span><br />
                             <span>Juanita +1</span><br />
+                            <span>Alice & TJ</span><br />
                         </div>
 
                         <div style={styles.secondaryHeader}><u>Where is it 🗺️</u></div>
