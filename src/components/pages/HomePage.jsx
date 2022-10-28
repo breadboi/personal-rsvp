@@ -59,12 +59,11 @@ export default class HomePage extends React.Component {
 
                         <div style={styles.secondaryHeader}><u>Who will be present 📋</u></div>
                         <div style={styles.afterUnderlineContent}>
-                            <span><u>14/15 Confirmed RSVPs</u></span><br />
+                            <span><u>12/15 Confirmed RSVPs</u></span><br />
                             <span>Brett & Julie</span><br />
                             <span>Martin</span><br />
                             <span>Michael & Erika</span><br />
                             <span>Brent & Cristy</span><br />
-                            <span>Dalia +1</span><br />
                             <span>Craig</span><br />
                             <span>Alice & TJ</span><br />
                             <span>Colin & Kate</span><br />
